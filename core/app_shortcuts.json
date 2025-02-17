@@ -1,0 +1,21 @@
+{
+    "Notepad++": {
+        "app_path": "C:\\Program Files\\Notepad++\\notepad++.exe",
+        "shortcuts": {
+            "fullscreen": "{F11}",
+            "post_it": "{F12}"
+        }
+    },
+    "Stremio": {
+        "app_path": "C:\\Users\\afra-laptop\\AppData\\Local\\Programs\\LNV\\Stremio-4\\stremio.exe",
+        "shortcuts": {
+            "fullscreen": "{F11}",
+            "home": "{F1}",
+            "discover": "{F2}",
+            "library": "{F3}",
+            "calendar": "{F4}",
+            "reload": "{F5}",
+            "settings": "^,"
+        }
+    }
+}
